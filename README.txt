@@ -10,7 +10,7 @@ Prerequisites:
 PostgreSQL installed on system: https://www.postgresql.org/download/
 Node and NPM: https://nodejs.org/en/download
 
-(1) Create the 'TP' database in PostgreSQL
+(1) Create the 'T4' database in PostgreSQL
     Run the DDL.sql File
     Run the insertInitData.sql File (you may want to watch the video first as they need to be done in order)
 
