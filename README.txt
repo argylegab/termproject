@@ -28,16 +28,9 @@ Important Files / Directory:
 
 
 Video:
-Google Drive URL: https://drive.google.com/file/d/1mq5EEYGYHWBQeCOBGsxQF-RW5OQSHGS1/view?usp=drive_link
-Vimeo URL: https://vimeo.com/887844766?share=copy
-- timestamps:
--- @ 0:03: Creating 'A4' db / Creating students table
--- @ 0:43: Initial data insertion
--- @ 1:20 Running the app and getAllStudents() functionality 
--- @ 2:35 Add student functionality
--- @ 3:52: updateStudentEmail() functionality
--- @ 4:50 deleteStudent() functionality
--- @ 5:34: Error Handling: Empty Fields & Non-existant Student IDs
+Google Drive URL:
+Vimeo URL: 
+
 
 Resources Used / Citations:
 Youtube Video: https://www.youtube.com/watch?v=O4bNwkC1ZxA
