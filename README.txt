@@ -28,8 +28,8 @@ Important Files / Directory:
 
 
 Video:
-Google Drive URL:
-Vimeo URL: 
+Google Drive URL: https://drive.google.com/file/d/1YIYbmfP4-VhW2vvPGZZAvP69ySFTIZ76/view?usp=sharing
+Vimeo URL: https://vimeo.com/893244602?share=copy
 
 
 Resources Used / Citations:
